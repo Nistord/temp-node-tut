@@ -1,0 +1,21 @@
+{
+  "name": "invatnode",
+  "version": "1.0.0",
+  "description": "tutoriale",
+  "main": "Nod1DeSters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Nod1DESters.js"
+  },
+  "author": "Dorin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1"
+  }
+}
